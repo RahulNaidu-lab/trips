@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Transport Manager Pro 1.01",
+  "description": "note and photo on load card , A comprehensive application to manage loads, customers, drivers, and trucks for a transport business. Track expenses and customer balances with ease.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
